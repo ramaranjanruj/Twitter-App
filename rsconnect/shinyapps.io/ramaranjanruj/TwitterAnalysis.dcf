@@ -1,0 +1,8 @@
+name: TwitterAnalysis
+account: ramaranjanruj
+server: shinyapps.io
+bundleId: 256364
+url: https://ramaranjanruj.shinyapps.io/TwitterAnalysis
+when: 1441149385.25498
+asMultiple: FALSE
+asStatic: FALSE
